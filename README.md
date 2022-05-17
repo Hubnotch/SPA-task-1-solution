@@ -1,5 +1,7 @@
 # week-one-sq011
 
+Here is my implementation of the task [star_wars](https://legendary-semifreddo-0529a6.netlify.app/)
+
 ## Problem Description:
 
 You are to create a SPA (single page application) application using HTML, CSS and JavaScript. It shows all characters from a star wars API (https://swapi.dev/api/people). Read the documentation and implement as follows.
